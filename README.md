@@ -1,4 +1,4 @@
-# Day-1
+# PYTHON LEARNING DAY - 1
   This is my first day of learning Python with help of a book named 'A Byte of Python' in Russian translation.
 In this day I have learned things such like:
 1. Comments;
